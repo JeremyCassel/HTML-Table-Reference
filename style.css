@@ -1,0 +1,36 @@
+html{
+    font-family: Georgia, 'Times New Roman', serif;
+    background-image: url('https://josuegadea.com/wp-content/uploads/2015/01/Background-grey-web.jpg');
+    background-color: grey;
+}
+
+h1{
+    text-align:center;
+    color:rgb(220,40,220);
+}
+
+h2{
+    text-align:center;
+    color:rgb(220,40,220);
+}
+
+table{
+    margin-left: auto;
+    margin-right: auto;
+    text-align: center;
+    border: 2px black solid;
+}
+
+th{
+    font-weight: 1000;
+    background-color: rgb(170, 110, 180);
+
+}
+
+td{
+    background-color: rgb(90, 150, 220);
+}
+
+.tag{
+    background-color: rgb(177, 222, 40);
+}
